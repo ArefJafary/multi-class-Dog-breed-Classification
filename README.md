@@ -1,6 +1,4 @@
-Here’s a refined **README.md** tailored for your **Jupyter Notebook-based Dog Breed Classification** project, emphasizing its interactive nature and Udemy Bootcamp context:
 
----
 
 # 🐶 End-to-End Dog Breed Classification (Jupyter Notebook)  
 **Developed as part of [Udemy's Complete Machine Learning & Data Science Bootcamp](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/).**  
