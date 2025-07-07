@@ -1,8 +1,8 @@
 
 
 # 🐶 End-to-End Dog Breed Classification (Jupyter Notebook)  
-**Developed as part of [Udemy's Complete Machine Learning & Data Science Bootcamp](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/).**  
-
+**Developed as part of Udemy's Complete Machine Learning & Data Science Bootcamp.**  
+ 
 
 ## 📌 Overview  
 This **Jupyter Notebook** implements an end-to-end multi-class dog breed classifier using **TensorFlow 2.x** and **TensorFlow Hub**. Designed for hands-on learning, it covers:  
@@ -47,13 +47,8 @@ This **Jupyter Notebook** implements an end-to-end multi-class dog breed classif
 
 ## 📊 Sample Output  
 **Prediction Visualization:**  
-![Prediction Example](https://via.placeholder.com/400x200?text=Top+Prediction+vs+Actual+Breed)  
+![Prediction Example]()  
 
-**TensorBoard Metrics:**  
-```bash
-tensorboard --logdir logs/
-```
-*(Include a screenshot of accuracy/loss curves if available)*  
 
 ---
 
