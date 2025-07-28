@@ -47,8 +47,7 @@ This **Jupyter Notebook** implements an end-to-end multi-class dog breed classif
 
 ## 📊 Sample Output  
 **Prediction Visualization:**  
-![Prediction Example]()  
-
+![Prediction Example](Prediction_example.png)  
 
 ---
 
